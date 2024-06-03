@@ -1,0 +1,50 @@
+NameFamily*Relation
+Gopalakrishna*Husband
+Veeraswami*Uncle
+Venkateswaramma*Aunt
+SrinivasaRao*Father
+Sujatha*Mother
+Pawankumar*Brother-in-law
+Deevi*Sister
+Rantababu*Brother-in-law
+Chitra*Sister
+Alina Grace*Daughter
+
+Friend Name&Quality
+Mamatha&Responsible
+Siromani*Clever
+Pavani*Funny
+Meghana*Helpful
+Chandrika&Anger
+Ganga Bhavani&Strong
+vijju& Hardworking
+Lucky&Brave
+Madhu priya&Honest
+Mallika& Anger
+
+Flower Name$Colour
+Rose$Red
+Lily$white
+Sunflower$yellow
+Lotus$White, Pink
+Hibiscus$Red,Pink,white
+Marigold$yellow,OrangeRed
+jasmine$White
+Bluebell$Blue
+Cockscomb$Purple
+Saffron$Yellow or Orange
+
+Colour#Rhymes
+Red#Roses is red colour
+Green#Trees is green colour
+yellow#Sunflower flowers are yellow
+white#whit is my favorite colour
+blue#Sky is blue colour
+Pink#lilly flowers are pink
+Purple#cockscomb flower is purple
+Orange#Marigold flowers is orange colour
+Black#My hair colour is black
+Marron# Marron is my favorite colour
+
+
+
